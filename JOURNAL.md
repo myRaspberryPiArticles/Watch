@@ -61,4 +61,4 @@ Today I did some minor work on the PCB and added some cool silkscreens to make i
 
 <img width="524" height="619" alt="Screenshot 2026-11-21 at 13 44 47" src="https://github.com/user-attachments/assets/df82fd14-9d9e-47a5-b909-696ef16f68ce" />
 
-**Total time spent: 3 hours**
+**Total time spent: 1 hour**
