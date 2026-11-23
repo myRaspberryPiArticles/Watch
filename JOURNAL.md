@@ -17,7 +17,7 @@ Spent the evening afterschool on wiring the schematic with all the parts, includ
 
 This was a very annoying part of the project, as the wiring was consistently wrong and did not work when I tested it in SimulIDE, a schematic simulator. Not to forget, I also spent a lot of time recreating the schematic in the new software I learned about. Finally, at the end of the day in bed I was able to think and write down a good way to get the 4 segment displays to wrap from 23:59 to 00:00, as a clock does.
 
-**Total time spent: 2 hour**
+**Total time spent: 2 hours**
 
 # November 11: Made my thought into the circuit
 
